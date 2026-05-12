@@ -248,7 +248,9 @@ nav.stuck .nav-logo img { height:32px; }
 .about-grid { display:grid; grid-template-columns:1fr 1fr; gap:6rem; align-items:center; margin-top:5rem; }
 .about-visual { position:relative; }
 .about-main-img {
-  width:100%; aspect-ratio:3/4; object-fit:cover; display:block;
+  width:100%; 
+  /* aspect-ratio:3/4;  */
+  object-fit:cover; display:block;
   filter:grayscale(15%); position:relative; z-index:1;
 }
 .about-accent-img {
