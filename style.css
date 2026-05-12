@@ -532,5 +532,6 @@ footer { background:var(--bg); padding:4rem 5vw 2.5rem; border-top:1px solid rgb
   .section{padding:5rem 4vw}
   .contact{padding:5rem 4vw}
   .hero-bg {
-  background:url('/assets/mobile-banner.webp') center/cover no-repeat;}
+  background:url('/assets/mobile-banner.webp') center/cover no-repeat;
+background: (104deg, rgba(10,10,10,.95) 10%, rgba(10,10,10,.5) 60%, rgba(10,10,10,.2) 82%)}
 }
