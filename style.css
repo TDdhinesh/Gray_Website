@@ -531,4 +531,6 @@ footer { background:var(--bg); padding:4rem 5vw 2.5rem; border-top:1px solid rgb
   .foot-bot{flex-direction:column;align-items:flex-start;gap:.4rem}
   .section{padding:5rem 4vw}
   .contact{padding:5rem 4vw}
+  .hero-bg {
+  background:url('/assets/mobile-banner.webp') center/cover no-repeat;}
 }
